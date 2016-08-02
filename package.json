@@ -1,0 +1,15 @@
+{
+  "name": "MMM-GmailEmail",
+  "version": "0.1.0",
+  "description": "",
+  "main": "MMM-GmailEmail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^0.9.8",
+    "googleapis": "^12.0.0"
+  }
+}
